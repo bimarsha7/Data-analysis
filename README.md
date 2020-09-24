@@ -1,2 +1,2 @@
-# Data Analysis Project
-> Thess five different analytical projects are a part of their data analyst nanodegree.
+## Data Analysis Project
+> These five different analytical projects completed as a part of their data analyst nanodegree.
